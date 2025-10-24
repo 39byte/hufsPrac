@@ -1,3 +1,4 @@
+print("숫자를 입력해주세요.")
 a = int(input()); b = int(input()); c = int(input())
 cm_list = [a, b, c]
 cm_list.sort()
